@@ -46,6 +46,7 @@
 - **[CoinGecko](https://www.coingecko.com/)** - Provides comprehensive data on cryptocurrency prices, volumes, and market capitalization.
 - **[CoinMarketCap](https://coinmarketcap.com/)** - A widely used platform for tracking cryptocurrency prices and market data.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, arbitrage, narratives, and sentiment.
+- **[Ezath](https://ezath.com)** - Crypto trading signals with a publicly verifiable, SHA-256 hash-chained track record (wins and losses), plus free risk/reward, liquidation and profit-factor calculators and an AI position-analysis scorer.
 
 ## Educational Resources
 
