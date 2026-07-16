@@ -46,6 +46,7 @@
 - **[CoinGecko](https://www.coingecko.com/)** - Provides comprehensive data on cryptocurrency prices, volumes, and market capitalization.
 - **[CoinMarketCap](https://coinmarketcap.com/)** - A widely used platform for tracking cryptocurrency prices and market data.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, arbitrage, narratives, and sentiment.
+- **[Testudo](https://github.com/sub0xdai/testudo)** - Open-source crypto exchange platform with Rust matching engine, agent trading API, Hyperliquid agent wallet support, and shadow-mode paper trading. AGPL-3.0.
 
 ## Educational Resources
 
