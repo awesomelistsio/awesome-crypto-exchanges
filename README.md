@@ -52,6 +52,7 @@
 - **[Investopedia's Guide to Cryptocurrency Exchanges](https://www.investopedia.com/best-crypto-exchanges-5071855)** - An in-depth guide covering the basics of cryptocurrency exchanges and how to choose one.
 - **[CoinDesk Learn](https://www.coindesk.com/learn/)** - Offers articles and tutorials on various aspects of cryptocurrency trading and exchanges.
 - **[Binance Academy](https://academy.binance.com/)** - Provides educational content on blockchain, cryptocurrencies, and trading strategies.
+- **[CoinVetted](https://coinvetted.com/)** - Independent reviews of crypto exchanges and wallets scored on a public five-pillar rubric, with fees and safety weighted over hype.
 
 ## Community and Forums
 
