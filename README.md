@@ -21,6 +21,7 @@
 - [License](#license)
 
 ## Major Cryptocurrency Exchanges
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 
 - **[Binance](https://www.binance.com/)** - One of the largest cryptocurrency exchanges globally, offering a wide range of cryptocurrencies and trading pairs.
 - **[Coinbase](https://www.coinbase.com/)** - A user-friendly platform suitable for beginners, providing access to various cryptocurrencies.
