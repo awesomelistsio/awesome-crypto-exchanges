@@ -13,6 +13,7 @@
 
 - [Major Cryptocurrency Exchanges](#major-cryptocurrency-exchanges)
 - [Decentralized Exchanges (DEXs)](#decentralized-exchanges-dexs)
+- [Instant / No-KYC Swaps](#instant--no-kyc-swaps)
 - [Security Practices](#security-practices)
 - [Trading Tools and Platforms](#trading-tools-and-platforms)
 - [Educational Resources](#educational-resources)
@@ -33,6 +34,12 @@
 - **[Uniswap](https://uniswap.org/)** - A leading decentralized exchange on the Ethereum blockchain, enabling peer-to-peer trading of ERC-20 tokens.
 - **[SushiSwap](https://sushi.com/)** - A community-driven DEX offering features like staking and yield farming.
 - **[PancakeSwap](https://pancakeswap.finance/)** - A popular DEX on the Binance Smart Chain, known for its low fees and diverse token offerings.
+
+## Instant / No-KYC Swaps
+
+- **[Swap.bz](https://swap.bz/)** - Instant crypto-to-crypto swaps with no account required. Published 0.5% Standard / 1% Private fees; strong Monero pairs and Telegram bot.
+- **[FixedFloat](https://fixedfloat.com/)** - Instant exchange with no registration for many small swaps.
+- **[SideShift.ai](https://sideshift.ai/)** - No-account instant swaps across many assets.
 
 ## Security Practices
 
